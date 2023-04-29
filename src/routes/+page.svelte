@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  import Hero from '$components/Hero.svelte';
+</script>
+
+<div>
+  <div class="flex justify-between">
+    <div class="h-[45rem] flex flex-col justify-center items-center">
+      <Hero />
+    </div>
+    <div></div>
+  </div>
+</div>

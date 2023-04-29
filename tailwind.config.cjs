@@ -8,9 +8,9 @@ const config = {
 		extend: {
 			colors: {
 				'my-blueberry': '#000102',
-				'my-darkerblue': '17315C',
-				'my-darkblue': '0A43A1',
-				'my-blue': '026CDA',
+				'my-darkerblue': '#17315C',
+				'my-darkblue': '#0A43A1',
+				'my-blue': '#026CDA',
 				'my-lightblue': '#37A1EC',
 				'my-white': '#F5F9F7'
 			}
