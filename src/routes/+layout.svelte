@@ -1,9 +1,9 @@
 <script>
 	import '../app.postcss';
 	import Navbar from '$components/Navbar.svelte';
-	import { fly } from 'svelte/transition';
 	import { page } from '$app/stores';
 	import PageTransition from "../components/PageTransition.svelte";
+	import ScrollHandler from "../components/ScrollHandler.svelte";
 </script>
 
 <div class="bg-my-blueberry w-screen h-screen">
@@ -22,6 +22,8 @@
 		{/key}
 	</div>
 </div>
+
+<ScrollHandler />
 
 <style global>
 	@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Inter&family=Inter:wght@900&display=swap');
