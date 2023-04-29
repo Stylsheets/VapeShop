@@ -8,7 +8,7 @@ export default defineConfig({
 			$lib: '/src/lib',
 			$components: '/src/components',
 			$stores: '/src/stores',
-			$utils: '/src/utils',
+			$utils: '/src/utils'
 		}
 	}
 });
