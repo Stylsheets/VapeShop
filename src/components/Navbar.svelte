@@ -1,20 +1,20 @@
 <script lang="ts">
-	import NavItem from "./NavItem.svelte";
+	import NavItem from './NavItem.svelte';
 </script>
 
 <div class="py-6">
 	<div
 		class="absolute inset-0 z-10 bg-gradient-to-b from-my-blueberry via-transparent to-transparent opacity-60 h-48"
-	></div>
+	/>
 	<div class="z-20 relative flex items-center justify-between">
 		<a href="/" class="logo text-2xl">
 			<span>vapeshop</span><span class="text-my-lightblue">.</span>
 		</a>
 		<div class="">
 			<ul class="flex gap-20">
-				<NavItem href="#">Home</NavItem>
-				<NavItem href="#">Home</NavItem>
-				<NavItem href="#">Home</NavItem>
+				<NavItem href="/">Home</NavItem>
+				<NavItem href="/test">Test</NavItem>
+				<NavItem href="#">Other Page</NavItem>
 			</ul>
 		</div>
 		<div class="">
