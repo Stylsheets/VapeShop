@@ -1,22 +1,16 @@
-# create-svelte
+# vape-shop
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A simple vape shop website built with SvelteKit. Inspired from [here](https://dribbble.com/shots/5260996-Concept-Vape-Shop/).
 
-## Creating a project
+## License
 
-If you're seeing this, you've probably already done this step. Congrats!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+**IMPORTANT NOTE**: This project is made by cloning the design [here](https://dribbble.com/shots/5260996-Concept-Vape-Shop/). I do not own the design. This project is only for educational purposes.
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've cloned the project and installed dependencies with `npm install` (or `pnpm install`), start a development server:
 
 ```bash
 npm run dev
@@ -27,7 +21,7 @@ npm run dev -- --open
 
 ## Building
 
-To create a production version of your app:
+To create a production version of this app:
 
 ```bash
 npm run build
