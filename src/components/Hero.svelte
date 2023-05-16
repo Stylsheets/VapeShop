@@ -5,8 +5,8 @@
 	</div>
 	<div>
 		<p class="text-my-white text-opacity-50 text-left">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua.
+			This website is Work in Progress (WIP). Lorem ipsum dolor sit amet, consectetur adipiscing
+			elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 		</p>
 	</div>
 	<div>
